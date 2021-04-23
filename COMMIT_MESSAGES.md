@@ -17,6 +17,7 @@ You can see all the verbs I use in the **Verb table** down below.
 
 | Verb       | Description   |
 | ---------- | ------------- |
+| Initial    | Initial snapshot of all the files in the repository   |
 | Added      | A file or files have been added to the repository     |
 | Removed    | A file or files have been removed from the repository |
 | Fixed      | A file or files have been changed to squash a bug     |
