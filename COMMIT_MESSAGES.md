@@ -22,9 +22,9 @@ You can see all the verbs I use in the **Verb table** down below.
 | Fixed      | A file or files have been changed to squash a bug     |
 | Updated    | A file or files have been changed for a new feature   |
 | Refactored | A file or files have been changed to clean up code    |
-| Changed    | A file or files who does not affect the codebase itself have been changed           |
-| Merged     | Multiple files have been merged together into as smaller amount of files            |
-| Installed  | This is purely for the installation (addition) of packages, libraries or frameworks |
+| Changed    | A file or files that do not affect the codebase in a technical way have been changed |
+| Merged     | Multiple files have been merged together into as smaller amount of files             |
+| Installed  | This is purely for the installation (addition) of packages, libraries or frameworks  |
 
 #### Description
 A **Description** is a small message to elaborate on the commit.<br>
@@ -33,7 +33,7 @@ In case of a **Description** message I advice myself and anyone reading this not
 
 ## Examples
 
-| Message                             | Description |
+| Message                             | Action      |
 | ----------------------------------- | ----------- |
 | Added middleware                    | Added a middleware.js file to the repository              |
 | Added util/moo, Changed README      | Added a util/moo.js file and changed the README.md        |
