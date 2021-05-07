@@ -23,6 +23,7 @@ You can see all the verbs I use in the **Verb table** down below.
 | Fixed      | A file or files have been changed to squash a bug     |
 | Updated    | A file or files have been changed for a new feature   |
 | Refactored | A file or files have been changed to clean up code    |
+| Unyikesed  | Fixed a typo in any file                              |
 | Changed    | A file or files that do not affect the codebase in a technical way have been changed |
 | Merged     | Multiple files have been merged together into as smaller amount of files             |
 | Installed  | This is purely for the installation (addition) of packages, libraries or frameworks  |
