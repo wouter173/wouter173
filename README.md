@@ -21,24 +21,33 @@ You can visit my website here <a href="https://wouterdb.nl">wouterdb.nl</a> 🔗
   🔸 Ruby<br>
   🔸 3D Modeling<br>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img align="right" src="https://raw.githubusercontent.com/wouter173/wouter173/master/planet-ice.png" width="300" />
+
+<img align="right" src="https://raw.githubusercontent.com/wouter173/wouter173/master/planet-ice.png" width="400" />
 <div align="left">
   <h3>What I'm already good at 🗿</h3>
-  🔸 React<br>
-  🔸 Sass<br>
-  🔸 Typescript<br>
-  🔸 Web design<br>
-  🔸 Go<br>
-  🔸 Writing weird commit messages<br>
+  🔹 React<br>
+  🔹 Sass<br>
+  🔹 Typescript<br>
+  🔹 Web design<br>
+  🔹 Go<br>
+  🔹 Writing weird commit messages<br>
 </div>
 <br>
 <br>
 <br>
-<img align="left" src="https://raw.githubusercontent.com/wouter173/wouter173/master/planet-dark.png" width="500"/>
+<br>
+<br>
+
+<img align="left" src="https://raw.githubusercontent.com/wouter173/wouter173/master/planet-dark.png" width="550"/>
 <div>
   <h3>Contact me</h3>
-  🔸 Wouter@debruijn.dev<br>
-  🔸 Sass<br>
-  🔸 Typescript<br>
+  ✉️ Wouter@debruijn.dev<br>
+  📸 wouter_db_<br>
+  💬 <a href="https://discord.com/invite/NmHAznB">Discord</a><br>
 </div>
