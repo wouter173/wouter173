@@ -35,4 +35,10 @@ You can visit my website here <a href="https://wouterdb.nl">wouterdb.nl</a> 🔗
 <br>
 <br>
 <br>
-<img align="left" src="https://raw.githubusercontent.com/wouter173/wouter173/master/planet-dark.png" width="400" />
+<img align="left" src="https://raw.githubusercontent.com/wouter173/wouter173/master/planet-dark.png" width="500"/>
+<div>
+  <h3>Contact me</h3>
+  🔸 Wouter@debruijn.dev<br>
+  🔸 Sass<br>
+  🔸 Typescript<br>
+</div>
