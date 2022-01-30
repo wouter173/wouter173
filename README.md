@@ -16,7 +16,7 @@ You can visit my website here <a href="https://wouterdb.nl">wouterdb.nl</a> 🔗
   <h3>What I'm already good at 🗿</h3>
   🔹 React<br>
   🔹 Tailwind<br>
-  🔹 Sass<b
+  🔹 Sass<br>
   🔹 Typescript<br>
   🔹 Web design<br>
   🔹 Go<br>
