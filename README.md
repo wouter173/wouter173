@@ -6,6 +6,7 @@ You can visit my website here <a href="https://wouterdb.nl">wouterdb.nl</a> 🔗
   <h3>Goals for 2022 👶</h3>
   🔸 Learn Rust<br>
   🔸 Build a good frontend syntax highlighter<br>
+  🔸 Build a good react text resizer<br>
   🔸 Be rich<br>
   🔸 Do a bit of opensource stuff<br>
   🔸 Getting better at 3D Modeling<br>
