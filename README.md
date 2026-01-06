@@ -3,8 +3,9 @@
 You can visit my website here <a href="https://wouterdb.com">wouterdb.com</a> 🔗
 
 #### Goals for 2026:
-- [ ] Gain experience w/ Effect-ts
-- [ ] Release my react-native app
+- [ ] build an iron farm on my minecraft world
+- [ ] gain experience w/ Effect-ts
+- [ ] release my react-native app `lance`
 
 <div>
   <h4>Contact me</h4>
