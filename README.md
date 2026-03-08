@@ -1,11 +1,12 @@
 <br>
-👋 Hi there I'm <b>Wouter</b> a self-taught <b>software engineer</b>.<br>
+👋 Hi there I'm <b>Wouter</b> a software engineer from the Netherlands.<br>
 You can visit my website here <a href="https://wouterdb.com">wouterdb.com</a> 🔗
 
 #### Goals for 2026:
-- [ ] build an iron farm on my minecraft world
+- [ ] graduate
 - [ ] gain experience w/ Effect-ts
-- [ ] release my react-native app `lance`
+- [ ] release my matrix client app
+- [ ] build an iron farm on my minecraft world
 
 <div>
   <h4>Contact me</h4>
