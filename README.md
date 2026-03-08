@@ -4,7 +4,7 @@ You can visit my website here <a href="https://wouterdb.com">wouterdb.com</a> ðŸ
 
 #### Goals for 2026:
 - [ ] graduate
-- [ ] gain experience w/ Effect-ts
+- [ ] gain experience w/ Effect
 - [ ] release my matrix client app
 - [ ] build an iron farm on my minecraft world
 
