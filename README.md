@@ -5,9 +5,9 @@ You can visit my website here <a href="https://wouterdb.com">wouterdb.com</a> ðŸ
 #### Goals for 2026:
 - [x] graduate
 - [x] gain experience w/ Effect
-- [ ] ~~ release my mobile matrix client app ~~
-- [ ] ~~ release mxfx 1.0 ~~
-- [ ] build an iron farm on my minecraft world
+- [ ] ~release my mobile matrix client app~
+- [ ] ~release mxfx 1.0~
+- [ ] build an iron farm on my minecraft world (maybe)
 - [x] get a job
 
 <div>
